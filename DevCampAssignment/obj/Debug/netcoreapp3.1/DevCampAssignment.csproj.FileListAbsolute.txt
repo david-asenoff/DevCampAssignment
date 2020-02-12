@@ -1,0 +1,11 @@
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\bin\Debug\netcoreapp3.1\DevCampAssignment.exe
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\bin\Debug\netcoreapp3.1\DevCampAssignment.deps.json
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\bin\Debug\netcoreapp3.1\DevCampAssignment.runtimeconfig.json
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\bin\Debug\netcoreapp3.1\DevCampAssignment.runtimeconfig.dev.json
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\bin\Debug\netcoreapp3.1\DevCampAssignment.dll
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\bin\Debug\netcoreapp3.1\DevCampAssignment.pdb
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\obj\Debug\netcoreapp3.1\DevCampAssignment.csprojAssemblyReference.cache
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\obj\Debug\netcoreapp3.1\DevCampAssignment.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\obj\Debug\netcoreapp3.1\DevCampAssignment.AssemblyInfo.cs
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\obj\Debug\netcoreapp3.1\DevCampAssignment.dll
+C:\Users\david\source\repos\DevCampAssignment\DevCampAssignment\obj\Debug\netcoreapp3.1\DevCampAssignment.pdb
